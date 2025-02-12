@@ -14,7 +14,7 @@
 
 - I am looking for company with **full of go-head spirit**.
 
-- How to reach me **fantasy-guru@gmail.com**
+- How to reach me **suzukikansho@gmail.com**
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
